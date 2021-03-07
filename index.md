@@ -22,7 +22,6 @@ We aim to bring together robotics researchers who work on knowledge-based method
 
 ### Tentative Schedule
 
-```markdown
 | Time  | Activity |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
@@ -39,8 +38,6 @@ We aim to bring together robotics researchers who work on knowledge-based method
 | 14:15 - 14:45 | Invited Talk #7 | 
 | 14:45 - 15:30 | Paper Presentations | 
 | 15:30 - 16:15 | Panel Discussion | 
-
-```
 
 ### Invited Speakers
 
