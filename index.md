@@ -1,10 +1,10 @@
 ### About
 
-How to incorporate human knowledge in declarative forms into robot decide-making under uncertainty? 
+How to incorporate **human knowledge** in declarative forms into **robot decide-making** under uncertainty? 
 
-On the one hand, knowledge representation and reasoning is one of the earliest research topics in AI. From Prolog to PDDL, many declarative paradigms have been used in robot systems for representing human knowledge. Researchers have used them for representing and reasoning with commonsense knowledge, action knowledge, temporal knowledge, etc. However, people frequently find those methods not performing well in scalability and robustness, which is particularly important in robotics. 
+On the one hand, **knowledge representation and reasoning** is one of the earliest research topics in AI. From Prolog to PDDL, many declarative paradigms have been used in robot systems for representing human knowledge. Researchers have used them for representing and reasoning with commonsense knowledge, action knowledge, temporal knowledge, etc. However, people frequently find those methods not performing well in scalability and robustness, which is particularly important in robotics. 
 
-On the other hand, sequential decision-making methods, including planning under uncertainty and reinforcement learning, have been widely used in robotics. Those methods mostly follow the Markov assumption, and aim to compute an action policy toward achieving long-term goals. Sequential decision-making methods are very good at handling the uncertainty from action outcomes and observations, and trial-and-error learning. However, those methods are not designed for incorporating human knowledge, which tends to be abstract, incomplete, and not always correct. 
+On the other hand, **sequential decision-making methods**, including planning under uncertainty and reinforcement learning, have been widely used in robotics. Those methods mostly follow the Markov assumption, and aim to compute an action policy toward achieving long-term goals. Sequential decision-making methods are very good at handling the uncertainty from action outcomes and observations, and trial-and-error learning. However, those methods are not designed for incorporating human knowledge, which tends to be abstract, incomplete, and not always correct. 
 
 We aim to bring together robotics researchers who work on knowledge-based methods, and sequential decision-making methods to explore ways of leveraging the complementary features from the two research areas. Through this workshop, we hope to identify benchmark problems for evaluation purposes, and highlight opportunities that deserve further investigations. 
 
@@ -24,7 +24,6 @@ We aim to bring together robotics researchers who work on knowledge-based method
 
 | Time  | Activity |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
 | 09:30 - 09:45 | Introduction & Opening Remarks | 
 | 09:45 - 10:15 | Invited Talk #1 | 
 | 10:15 - 10:45 | Invited Talk #2 | 
