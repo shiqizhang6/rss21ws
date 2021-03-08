@@ -1,6 +1,6 @@
 ### About
 
-How to incorporate **human knowledge** in declarative forms into **robot decide-making** under uncertainty? 
+How to incorporate **human knowledge** in declarative forms into **robot decision-making** under uncertainty? 
 
 On the one hand, **knowledge representation and reasoning** is one of the earliest research topics in AI. From Prolog to PDDL, many declarative paradigms have been used in robot systems for representing human knowledge. Researchers have used them for representing and reasoning with commonsense knowledge, action knowledge, temporal knowledge, etc. However, people frequently find those methods not performing well in scalability and robustness, which is particularly important in robotics. 
 
