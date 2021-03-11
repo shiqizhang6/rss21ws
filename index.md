@@ -1,12 +1,12 @@
 ### About
 
-How to incorporate **human knowledge** in declarative forms into **robot decision-making** under uncertainty? 
+How to incorporate **human knowledge** in declarative forms into **robot behaviors**?
 
-On the one hand, **knowledge representation and reasoning** is one of the earliest research topics in AI. From Prolog to PDDL, many declarative paradigms have been used in robot systems for representing human knowledge. Researchers have used them for representing and reasoning with commonsense knowledge, action knowledge, temporal knowledge, etc. However, people frequently find those methods not performing well in scalability and robustness, which is particularly important in robotics. 
+**Knowledge representation and reasoning** is one of the earliest research topics in AI. From Prolog to PDDL, many declarative paradigms have been used in robot systems for representing human knowledge. Researchers have used them for representing and reasoning with commonsense knowledge, action knowledge, temporal knowledge, etc. However, people frequently find those methods not performing well in scalability and robustness, which is particularly important in robotics. 
 
-On the other hand, **sequential decision-making methods**, including planning under uncertainty and reinforcement learning, have been widely used in robotics. Those methods mostly follow the Markov assumption, and aim to compute an action policy toward achieving long-term goals. Sequential decision-making methods are very good at handling the uncertainty from action outcomes and observations, and trial-and-error learning. However, those methods are not designed for incorporating human knowledge, which tends to be abstract, incomplete, and not always correct. 
+Robots frequently face complex tasks that require multiple actions, and performing those actions sometimes does not lead to desired results. What makes robot behavior generation more challenging is that robot perception is partial and unreliable. To address those challenges, **planning under uncertainty** and **reinforcement learning** methods have been widely used to help robots achieve long-term goals in presence of their imperfect sensing and actuating capabilities. However, those planning and learning methods are not designed for representing or reasoning with declarative knowledge, which tends to be abstract, incomplete, and not always correct. 
 
-We aim to bring together robotics researchers who work on knowledge-based methods, and sequential decision-making methods to explore ways of leveraging the complementary features from the two research areas. Through this workshop, we hope to identify benchmark problems for evaluation purposes, and highlight opportunities that deserve further investigations. 
+We aim to bring together robotics researchers who work on knowledge-based methods, and robot sequential decision-making methods, including planning under uncertainty and reinforcement learning, to explore ways of leveraging the complementary features from the two research areas. Through this workshop, we hope to identify benchmark problems for evaluation purposes, discuss recent advances, and highlight opportunities that deserve further investigations. 
 
 ### Important Dates
 
@@ -40,15 +40,14 @@ We aim to bring together robotics researchers who work on knowledge-based method
 
 ### Invited Speakers
 
-- Michael Beetz, University of Bremen (not confirmed)
-- Joyce Chai, University of Michigan (not confirmed)
-- Anthony Cohn, University of Leeds (not confirmed)
-- Jeremy Frank, NASA Ames (not confirmed)
-- Leslie Kaelbling, MIT (not confirmed)
 - Sheila McIlraith, University of Toronto (tentatively comfirmed)
-- Stefanie Tellex, Brown (not confirmed)
+- Joyce Chai, University of Michigan (tentatively comfirmed)
+- Anthony Cohn, University of Leeds (tentatively comfirmed)
+- Nick Hawes, University of Oxford (not confirmed)
+- George Konidaris, Brown (not confirmed)
 - Matthias Scheutz, Tufts University (not confirmed)
-- Yezhou Yang, ASU (not confirmed)
+- Marc Toussaint, TU Berlin (not confirmed)
+
 
 ### Organizing 
 - Shiqi Zhang, SUNY Binghamton (zhangs@binghamton.edu)
