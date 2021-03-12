@@ -43,7 +43,7 @@ We aim to bring together robotics researchers who work on knowledge-based method
 - Sheila McIlraith, University of Toronto (tentatively comfirmed)
 - Joyce Chai, University of Michigan (tentatively comfirmed)
 - Anthony Cohn, University of Leeds (tentatively comfirmed)
-- Nick Hawes, University of Oxford (not confirmed)
+- Nick Hawes, University of Oxford (tentatively comfirmed)
 - George Konidaris, Brown (not confirmed)
 - Matthias Scheutz, Tufts University (not confirmed)
 - Marc Toussaint, TU Berlin (not confirmed)
