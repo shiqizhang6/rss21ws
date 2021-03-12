@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: RSS 2021 Workshop on <br>Declarative Knowledge in Learning and Control of Robot Behaviors
+github:
+  is_project_page: false
