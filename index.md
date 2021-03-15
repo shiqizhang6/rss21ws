@@ -15,9 +15,9 @@ We aim to focus on a general and currently pressing need for declarative knowled
 - **Nick Hawes**, University of Oxford (comfirmed)
 - **George Konidaris**, Brown University (confirmed)
 - **Sheila McIlraith**, University of Toronto (comfirmed)
-- Chad Jenkins, University of Michigan (not confirmed)
-- Matthias Scheutz, Tufts University (not confirmed)
-- Marc Toussaint, TU Berlin (not confirmed)
+- Chad Jenkins, University of Michigan (pending)
+- Matthias Scheutz, Tufts University (pending)
+- Marc Toussaint, TU Berlin (pending)
 
 ### Important Dates
 
