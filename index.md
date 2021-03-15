@@ -13,11 +13,11 @@ Robots frequently face **complex tasks** that require multiple actions, and perf
 - **Joyce Chai**, University of Michigan (comfirmed)
 - **Anthony Cohn**, University of Leeds (comfirmed)
 - **Nick Hawes**, University of Oxford (comfirmed)
+- **George Konidaris**, Brown University (confirmed)
 - **Sheila McIlraith**, University of Toronto (comfirmed)
-- Marc Toussaint, TU Berlin (not confirmed)
 - Chad Jenkins, University of Michigan (not confirmed)
-- George Konidaris, Brown (not confirmed)
 - Matthias Scheutz, Tufts University (not confirmed)
+- Marc Toussaint, TU Berlin (not confirmed)
 
 ### Important Dates
 
